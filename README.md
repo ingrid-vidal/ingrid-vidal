@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ingrid-vidal/ingrid-vidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá eu sou a Ingrid Vidal :heart:
 
 Here are some ideas to get you started:
 
