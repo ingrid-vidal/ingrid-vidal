@@ -10,5 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrid-vidal&layout=compact&langs_count=16&theme=tokyonight&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
-(https://github.com/rafaballerini/ingrid-vidal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ingrid-vidal/ingrid-vidal/blob/output/github-contribution-grid-snake.svg)
 
