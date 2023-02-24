@@ -4,7 +4,7 @@
   <ul>
   <li> 💻 Atualmente estudo desenvolvimento web
   <li> 😊 Futura desenvolvedora front-end
-  <li> 💕 Curso _*análise e desenvolvimento de sistemas*_
+  <li> 💕 Curso <strong>análise e desenvolvimento de sistemas</strong>
   <li> 📧 Encontre-me no E-mail ingridinha.vidal@gmail.com
   </ul>
   <img align="right" alt="gif-eu" src="https://media.discordapp.net/attachments/1073266910407434302/1077099813914554368/download20230201004354.png?width=200&height=200">
