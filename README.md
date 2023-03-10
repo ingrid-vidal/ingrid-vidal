@@ -10,7 +10,7 @@
   </ul>
 </div>
 <hr>
-<div style="display: inline-block">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=ingrid-vidal&show_icons=true&theme=tokyonight" width=40%>
  
  
